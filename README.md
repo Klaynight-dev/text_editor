@@ -55,6 +55,3 @@ This project was created using PyQt5 and follows best practices for Python GUI a
 ## Author
 
 [Klaynight-dev](https://github.com/klaynight-dev)
-```
-
-Feel free to modify this README file according to your specific project details, including installation instructions, usage examples, additional features, or any specific setup required for your text editor application.
