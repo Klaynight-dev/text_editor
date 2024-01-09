@@ -32,10 +32,16 @@ Make sure you have Python 3 installed on your system. You'll also need to instal
    cd PyQt5-Text-Editor
    ```
 
-3. Run the application:
+3. Download the requirements:
 
    ```bash
-   python text_editor.py
+   pip install -r requirements.txt
+   ```
+
+5. Run the application:
+
+   ```bash
+   python main.py
    ```
 
 4. Use the menu options or keyboard shortcuts to perform various text editing operations.
